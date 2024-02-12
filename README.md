@@ -2,8 +2,31 @@
 <html>
   <body>
   Hello 👋 <h3>Welcome to my Github page!</h3>
-    Also visit, my <a href="https://www.linkedin.com/in/kalyani-kopparapu-b1b822b5/" >LinkedIn</a> profile
-    My Email : reachkalyanihere@hotmail.com
+ <h2>👩‍💻About Me </h2>
+    <p>My name is Kalyani Kopparapu and I am a software professional having a well-versed knowledge of software development life cycle. My prime area has been in the Testing phase with experience in manual, automation and also development of testing tools. My work experience 
+      includes testing in various Microsoft operating systems including XP, Vista, Windows 7 and above and also their server counterparts. I also worked as a Software Development Engineer in Test for one of the Microsoft projects during my tenure at Redmond(WA), where I got to
+      work on technologies like C#, .Net Framework, ASP.Net, Windows Forms and SQL.To be continued..
+    </p>
+<h2>👩‍💻 Hands-on Learning:</h2>
+
+
+  - Linux Fundamentals
+  - Windows Fundamentals
+- <b>Bash Scripting</b>
+  -  Github url here <b><i>Bash Scripting</b></i>
+- <b>Windows Command Line</b>
+  - Github url
+  - 
+- <b>Python projects </b>
+  - Github url
+- <b>SQL</b>
+  - Github url
+<h2>👩‍💻 Cyber Security Projects:</h2>
+- <b>Setting up a home lab </b>
+ <h2>👩‍💻 Connect with me</h2>
+  <a href="https://www.linkedin.com/in/kalyani-kopparapu-b1b822b5/" >LinkedIn</a> profile
+    <p>Email : reachkalyanihere@hotmail.com</p>
+   
   </body>
 </html>
 <!--
