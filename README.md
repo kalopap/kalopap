@@ -1,41 +1,70 @@
 <p align="center">
   <img src="https://github.com/kalopap.png" alt="Kalyani Kopparapu" width="150" style="border-radius:50%">
 </p>
+<h2 align="center">👩‍💻 Kalyani Kopparapu</h2>
+<h4>🏆 Software QA Engineer | SDET | AI/ML Enthusiast | AWS Certified AI Practitioner</h4>
+Welcome to my GitHub! 👋
+I specialize in building robust test automation frameworks, writing efficient, maintainable scripts for UI and API testing, currently expanding into Evaluating, testing and building LLM-based applications — bridging my QA expertise into the AI space.
+If you'd like to connect, feel free to check out my LinkedIn or reach me via 📧 reachkalyanihere@hotmail.com.
 
-# 👩‍💻 Kalyani Kopparapu
+<h4>🚀 About Me </h4>
 
-🏆 **Software QA Engineer | SDET | Automation Enthusiast**
-
-Welcome to my GitHub! 👋  
-I specialize in **building robust test automation frameworks** and writing **efficient, maintainable scripts** for UI and API testing.  
-If you’d like to connect, feel free to check out my [LinkedIn](www.linkedin.com/in/kalyani-kopparapu-b1b822b5) or reach me via **📧 reachkalyanihere@hotmail.com**.
-
----
-
-## 🚀 About Me
-- 💼 Role: Software Engineer in QA (12+ years of experience in Testing & Automation)  
-- 💻 Expertise: Functional & Automation Testing (UI & REST API)  
-- 📈 Passionate about improving QA processes, mentoring teams, and ensuring release quality.  
-- 🌎 Experienced across **Agile environments** with both onsite & offshore team collaboration.  
-
----
+💼 Role: Software Engineer in QA (12+ years of experience in Testing & Automation)
+💻 Expertise: Functional & Automation Testing (UI & REST API)
+🤖 Currently Learning: LLM application development using LangChain, building RAG systems and AI Agents and Evaluating them
+🏅 Certified: AWS Certified AI Practitioner
+📈 Passionate about improving QA processes, mentoring teams, and ensuring release quality
+🌎 Experienced across Agile environments with both onsite & offshore team collaboration
 
 
-<b>🎯 Tech Stack & Tools</b>
-<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge&logo=testng&logoColor=white"> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"> <img src="https://img.shields.io/badge/RestAssured-000000?style=for-the-badge"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> </p>
+<h4>🧠 AI / ML Knowledge & Skills</h4>
 
----
+<h5>Conceptual Understanding</h5>
 
-## 📂 Featured Projects
-- 🔹 **[UI Automation Framework Demo](https://github.com/kalopap/selenium-automationexercise-framework)** – Selenium + TestNG + Maven + POM  
-- 🔹 **[API Testing with RestAssured](https://github.com/kalopap/TestAutomation-RestAssuredDemo)** – REST API test automation suite  
-<!-- - 🔹 **[GitHub Actions CI Pipeline](#)** – Sample CI/CD integration for automated test execution  -->
+🔍 Large Language Models (LLMs) & Prompt Engineering
+📚 Retrieval-Augmented Generation (RAG) & Vector Databases
+🤖 AI Agents, Tool Calling & Multi-Agent Systems
+🔗 LangChain — Chains, Runnables, Parallel Execution, Chat History
+🧪 LLM Evaluation & Testing (RAGAs, DeepEval)
+🖥️ Local LLM deployment with Ollama
+📊 LangSmith for debugging & observability
+🧬 Embeddings, Semantic Search & Similarity
 
----
+<h4>🚧 Work in Progress — AI Projects</h4>
 
-## 🌟 Quick Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/kalyani-kopparapu-b1b822b5)  
-- 📧 reachkalyanihere@hotmail.com  
-- 📝 Open to collaborations on QA automation projects and SDET roles  
+💬 Building Chatbots with conversational memory using LangChain + local LLMs
+📄 Building RAG-based applications with vector stores & local embeddings
+🧪 Evaluating AI systems using RAGAs and DeepEval metrics
+🤝 Exploring Multi-Agent Systems with AutoGen and CrewAI for QA automation
+🛠️ Building GenAI tools for software testing — log analysis, test case generation, and autonomous QA agents
+
+
+<h4><b>🎯 Tech Stack & Tools</b></h4>
+
+QA & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge&logo=testng&logoColor=white">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
+  <img src="https://img.shields.io/badge/RestAssured-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+</p>
+AI / LLM Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/RAGAs-6A0DAD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DeepEval-0066CC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge">
+</p>
+
+🏅 Certifications
+
+☁️ AWS Certified AI Practitioner
 
 
