@@ -21,7 +21,7 @@ If you'd like to connect, feel free to check out my LinkedIn or reach me via �
 
 <h5>Conceptual Understanding</h5>
 
-🔍 Large Language Models (LLMs) & Prompt Engineering
+🔍 Large Language Models (LLMs) & Prompt/Context Engineering with MCP(Model Context Protocol)
 📚 Retrieval-Augmented Generation (RAG) & Vector Databases
 🤖 AI Agents, Tool Calling & Multi-Agent Systems
 🔗 LangChain — Chains, Runnables, Parallel Execution, Chat History
@@ -32,11 +32,20 @@ If you'd like to connect, feel free to check out my LinkedIn or reach me via �
 
 <h4>🚧 Work in Progress — AI Projects</h4>
 
-💬 Building Chatbots with conversational memory using LangChain + local LLMs
-📄 Building RAG-based applications with vector stores & local embeddings
-🧪 Evaluating AI systems using RAGAs and DeepEval metrics
-🤝 Exploring Multi-Agent Systems with AutoGen and CrewAI for QA automation
-🛠️ Building GenAI tools for software testing — log analysis, test case generation, and autonomous QA agents
+💬 Building Chatbots with conversational memory using LangChain + local LLMs -- Completed
+   <a href="https://github.com/kalopap/Build_ChatBots_RAG_using_LLMs">Build_ChatBots_RAG_using_LLMs</a>
+
+
+📄 Building RAG-based applications with vector stores & local embeddings -- In Progress
+   <a href="https://github.com/kalopap/Financial_RAG_pipeline">Financial_RAG_pipeline</a>
+   
+🧪 Evaluating AI systems using RAGAs and DeepEval metrics -- UpComing
+
+
+🤝 Exploring Multi-Agent Systems with AutoGen and CrewAI for QA automation -- UpComing
+
+
+🛠️ Building GenAI tools for software testing — log analysis, test case generation, and autonomous QA agents -- UpComing
 
 
 <h4><b>🎯 Tech Stack & Tools</b></h4>
