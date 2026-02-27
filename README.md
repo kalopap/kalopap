@@ -30,6 +30,9 @@ If you'd like to connect, feel free to check out my LinkedIn or reach me via �
 📊 LangSmith for debugging & observability
 🧬 Embeddings, Semantic Search & Similarity
 
+AWS Cloud AI Managed Services
+Conceptual and handson understanding of different AWS services including Amazon Bedrock, AWS Sagemaker, Amazon Transcribe, Amazon Recognition,etc.,
+
 <h4>🚧 Work in Progress — AI Projects</h4>
 
 💬 Building Chatbots with conversational memory using LangChain + local LLMs -- Completed
